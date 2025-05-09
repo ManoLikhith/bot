@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Ordering System</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="animate__animated animate__fadeInDown">
+        <h1>Welcome to Our Food Ordering System</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#customer-care">Customer Care</a></li>
+                <li><a href="#chatbot" onclick="toggleChatbot()">Chat Bot</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="menu" class="animate__animated animate__fadeInUp">
+            <h2>Our Menu</h2>
+            <div class="menu-items">
+                <!-- Menu items will be dynamically inserted here -->
+            </div>
+        </section>
+    </main>
+
+    <!-- Chatbot Widget -->
+    <div id="chatbot-container" class="chatbot-hidden">
+        <div id="chatbot-header">
+            <h3>FoodBot</h3>
+            <button onclick="toggleChatbot()">X</button>
+        </div>
+        <div id="chatbot-messages"></div>
+        <div id="chatbot-input">
+            <input type="text" id="chatbot-input-text" placeholder="Type your message...">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <footer class="animate__animated animate__fadeInUp">
+        <p>&copy; 2023 Food Ordering System. All rights reserved.</p>
+    </footer>
+    <script src="script.js"></script>
+    <script>
+        // Toggle chatbot visibility
+        function toggleChatbot() {
+            const container = document.getElementById('chatbot-container');
+            if (container.classList.contains('chatbot-hidden')) {
+                container.classList.remove('chatbot-hidden');
+                container.classList.add('chatbot-visible');
+                // Initial message
+                addMessage('Chatbot', 'Welcome to FoodBot! 🍴 Would you like to place an order? (yes/no)');
+            } else {
+                container.classList.remove('chatbot-visible');
+                container.classList.add('chatbot-hidden');
+            }
+        }
+
+        // Add message to chat
+        function addMessage(sender, message) {
+            const messagesDiv = document.getElementById('chatbot-messages');
+            const messageDiv = document.createElement('div');
+            messageDiv.classList.add('chat-message', sender.toLowerCase());
+            messageDiv.textContent = `${sender}: ${message}`;
+            messagesDiv.appendChild(messageDiv);
+            messagesDiv.scrollTop = messagesDiv.scrollHeight; // Auto-scroll to bottom
+        }
+
+        // Send message to backend
+        function sendMessage() {
+            const input = document.getElementById('chatbot-input-text');
+            const message = input.value.trim();
+            if (!message) return;
+
+            addMessage('You', message);
+            input.value = '';
+
+            fetch('http://localhost:5000/chatbot', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ message: message })
+            })
+            .then(response => response.json())
+            .then(data => {
+                addMessage('Chatbot', data.response);
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                addMessage('Chatbot', 'Sorry, something went wrong.');
+            });
+        }
+
+        // Send message on Enter key
+        document.getElementById('chatbot-input-text').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                sendMessage();
+            }
+        });
+    </script>
+</body>
+</html>

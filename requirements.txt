@@ -1,0 +1,6 @@
+tensorflow
+nltk
+flask
+scikit-learn==1.4.1.post1
+joblib
+tk

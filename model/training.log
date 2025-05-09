@@ -1,0 +1,10 @@
+INFO:root:Training the model with the dataset...
+INFO:root:Training the model with the dataset...
+INFO:root:naive_bayes training completed.
+INFO:root:naive_bayes accuracy: 0.44
+INFO:root:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:root:svm training completed.
+INFO:root:svm accuracy: 0.44
+INFO:root:random_forest training completed.
+INFO:root:random_forest accuracy: 0.61
+INFO:root:Models and vectorizer saved successfully.

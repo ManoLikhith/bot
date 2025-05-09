@@ -1,0 +1,163 @@
+{
+    "intents": [
+      {
+        "tag": "order",
+        "patterns": [
+          "I'd like to order a pizza",
+          "Can I get a salad?",
+          "I want a burger",
+          "Please bring me some sushi",
+          "I'd like to order a large fries",
+          "Can you get me a sandwich?",
+          "I want to order a dessert",
+          "Please get me a drink",
+          "I'd like to have a smoothie",
+          "Can I order a side of wings?",
+          "I want a vegetarian pizza",
+          "Please bring me a Caesar salad",
+          "I'd like to order a steak",
+          "Can I have a bowl of ramen?",
+          "I want to order a fruit salad",
+          "Please get me a hot dog",
+          "I'd like to order a milkshake",
+          "Can I have a plate of nachos?",
+          "I want to order a seafood platter",
+          "Please get me a chocolate cake"
+        ],
+        "responses": [
+          "What would you like to order?",
+          "Please specify your order.",
+          "Could you tell me the details of your order?",
+          "What size would you like for your order?",
+          "Do you have any specific preferences for your order?"
+        ]
+      },
+      {
+        "tag": "track",
+        "patterns": [
+          "What’s the status of my order?",
+          "Can you tell me where my food is?",
+          "I want to track my delivery.",
+          "Where is my pizza?",
+          "Can you check the status of my order?",
+          "What time will my order arrive?",
+          "Is my order on the way?",
+          "Can you give me an update on my order?",
+          "I need to know the delivery status.",
+          "Where's my order?",
+          "How long until my food arrives?",
+          "Can you track my order for me?",
+          "What’s the ETA for my delivery?",
+          "Is my order still being prepared?",
+          "Can you tell me if my order has shipped?",
+          "I want to know if my food is ready."
+        ],
+        "responses": [
+          "Please provide your order ID to track your order.",
+          "Tracking information is needed to assist you.",
+          "I can help you with that. Please share your order ID.",
+          "Let me check the status of your order. What is your order ID?",
+          "I need your order ID to provide the tracking details."
+        ]
+      },
+      {
+        "tag": "menu",
+        "patterns": [
+          "What do you have on the menu?",
+          "Show me your vegetarian options",
+          "List all desserts available.",
+          "What are your specials today?",
+          "Can you show me the drink menu?",
+          "What appetizers do you have?",
+          "Do you have gluten-free options?",
+          "What are the bestsellers?",
+          "Can you tell me about your pizza options?",
+          "What kind of salads do you offer?",
+          "Do you have any vegan dishes?",
+          "What are your side dishes?",
+          "Can you list the main courses?",
+          "What desserts do you recommend?",
+          "What drinks do you have available?",
+          "Can I see the kids' menu?",
+          "What are your breakfast options?",
+          "Do you have any seasonal items?",
+          "What is your most popular dish?",
+          "Can you tell me about your seafood options?",
+          "What are the prices for your menu items?"
+        ],
+        "responses": [
+          "Here is the menu: ...",
+          "We have a variety of options including...",
+          "Our specials today include...",
+          "You can find our vegetarian options here: ...",
+          "We offer a range of desserts, including..."
+        ]
+      },
+      {
+        "tag": "feedback",
+        "patterns": [
+          "I want to give feedback",
+          "How can I provide my feedback?",
+          "I have some comments about my order",
+          "Can I leave a review?",
+          "I want to share my experience",
+          "How do I submit feedback?",
+          "I have a suggestion for you",
+          "Can I report an issue?",
+          "I want to compliment the service",
+          "How can I express my dissatisfaction?"
+        ],
+        "responses": [
+          "We appreciate your feedback! Please share your comments.",
+          "Your feedback is important to us. What would you like to say?",
+          "Please let us know your thoughts.",
+          "We value your input. What feedback do you have?",
+          "Thank you for wanting to share your experience. Please go ahead."
+        ]
+      },
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hello",
+          "Good morning",
+          "Good evening",
+          "Hey there",
+   "What's up?",
+          "How are you?",
+          "Greetings",
+          "Hi there!",
+          "Hello, how can I help you?"
+        ],
+        "responses": [
+          "Hello! How can I assist you today?",
+          "Hi there! What would you like to order?",
+          "Good to see you! How can I help you?",
+          "Hello! What can I do for you today?",
+          "Hi! Ready to place an order?"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": [
+          "Goodbye",
+          "See you later",
+          "Thanks, I'm done",
+          "Bye",
+          "Take care",
+          "Have a nice day",
+          "I'm leaving now",
+          "See you next time",
+          "Thanks for your help",
+          "I appreciate it, goodbye"
+        ],
+        "responses": [
+          "Thank you for visiting! Have a great day!",
+          "Goodbye! We hope to see you again soon!",
+          "Take care! If you need anything else, just ask!",
+          "Thanks for chatting! Have a wonderful day!",
+          "See you later! Enjoy your meal!"
+        ]
+      }
+    ]
+  }

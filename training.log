@@ -1,0 +1,878 @@
+INFO:root:Training the model with the dataset...
+INFO:root:Training the model with the dataset...
+INFO:root:naive_bayes training completed.
+INFO:root:naive_bayes accuracy: 0.44
+INFO:root:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:root:svm training completed.
+ERROR:root:An error occurred during model training: This SVC instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+INFO:root:Models and vectorizer saved successfully.
+INFO:root:Training the model with the dataset...
+INFO:root:Training the model with the dataset...
+INFO:root:naive_bayes training completed.
+INFO:root:naive_bayes accuracy: 0.44
+INFO:root:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:root:svm training completed.
+INFO:root:svm accuracy: 0.44
+INFO:root:random_forest training completed.
+INFO:root:random_forest accuracy: 0.72
+INFO:root:Models and vectorizer saved successfully.
+INFO:root:Training the model with the dataset...
+INFO:root:Training the model with the dataset...
+INFO:root:naive_bayes training completed.
+INFO:root:naive_bayes accuracy: 0.44
+INFO:root:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:root:svm training completed.
+INFO:root:svm accuracy: 0.44
+INFO:root:random_forest training completed.
+INFO:root:random_forest accuracy: 0.67
+INFO:root:Models and vectorizer saved successfully.
+INFO:__main__:Current working directory: C:\Users\Mano likhith\Downloads\bot
+INFO:root:Training the model with the dataset...
+INFO:root:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:root:naive_bayes training completed.
+INFO:root:naive_bayes accuracy: 0.44
+INFO:root:svm training completed.
+INFO:root:svm accuracy: 0.67
+INFO:root:random_forest training completed.
+INFO:root:random_forest accuracy: 0.67
+INFO:root:Models and vectorizer saved successfully.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.15.42.4:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:__main__:Current working directory: C:\Users\Mano likhith\Downloads\bot
+INFO:root:Training the model with the dataset...
+INFO:root:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:root:naive_bayes training completed.
+INFO:root:naive_bayes accuracy: 0.44
+INFO:root:svm training completed.
+INFO:root:svm accuracy: 0.67
+INFO:root:random_forest training completed.
+INFO:root:random_forest accuracy: 0.61
+INFO:root:Models and vectorizer saved successfully.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 376-653-275
+INFO:__main__:Current working directory: C:\Users\Mano likhith\Downloads\bot
+INFO:root:Training the model with the dataset...
+INFO:root:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:root:naive_bayes training completed.
+INFO:root:naive_bayes accuracy: 0.44
+INFO:root:svm training completed.
+INFO:root:svm accuracy: 0.67
+INFO:root:random_forest training completed.
+INFO:root:random_forest accuracy: 0.61
+INFO:root:Models and vectorizer saved successfully.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.15.42.4:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:__main__:Current working directory: C:\Users\Mano likhith\Downloads\bot
+INFO:root:Training the model with the dataset...
+INFO:root:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:root:naive_bayes training completed.
+INFO:root:naive_bayes accuracy: 0.44
+INFO:root:svm training completed.
+INFO:root:svm accuracy: 0.67
+INFO:root:random_forest training completed.
+INFO:root:random_forest accuracy: 0.61
+INFO:root:Models and vectorizer saved successfully.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 376-653-275
+ERROR:__main__:Failed to load dataset or train model: name 'logger' is not defined
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.72
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:__main__:Model training completed successfully.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.15.42.4:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.61
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:__main__:Model training completed successfully.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 376-653-275
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:__main__:Model training completed successfully.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.15.42.4:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.72
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:__main__:Model training completed successfully.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 376-653-275
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.61
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.61
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Model training completed successfully.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.15.42.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.72
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Model training completed successfully.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 376-653-275
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.15.28.20:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.72
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 376-653-275
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.72
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.61
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.61
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.72
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.61
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.72
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.61
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.61
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.61
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.72
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.61
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.72
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.72
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.61
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.61
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.72
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.15.38.40:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.61
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:model.chatbot_model:Menu loaded successfully.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 376-653-275
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.61
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.61
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.72
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.72
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.72
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.72
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.61
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.61
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.61
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.61
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.61
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.61
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.61
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.61
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.61
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully
+INFO:model.chatbot_model:Menu loaded successfully.
+INFO:model.chatbot_model:Dataset loaded successfully.
+INFO:model.chatbot_model:Starting model training...
+INFO:model.chatbot_model:SVM best parameters: {'C': 10, 'kernel': 'linear'}
+INFO:model.chatbot_model:naive_bayes training completed.
+INFO:model.chatbot_model:naive_bayes accuracy: 0.44
+INFO:model.chatbot_model:svm training completed.
+INFO:model.chatbot_model:svm accuracy: 0.67
+INFO:model.chatbot_model:random_forest training completed.
+INFO:model.chatbot_model:random_forest accuracy: 0.67
+INFO:model.chatbot_model:Models and vectorizer saved successfully.
+INFO:root:Chatbot initialized successfully

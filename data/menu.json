@@ -1,0 +1,74 @@
+{
+    "menu": [
+      {
+        "id": 1,
+        "name": "Margherita Pizza",
+        "description": "Classic pizza with fresh mozzarella, tomatoes, and basil.",
+        "price": 12.99,
+        "category": "Pizza"
+      },
+      {
+        "id": 2,
+        "name": "Pepperoni Pizza",
+        "description": "Delicious pizza topped with pepperoni and mozzarella cheese.",
+        "price": 14.99,
+        "category": "Pizza"
+      },
+      {
+        "id": 3,
+        "name": "Caesar Salad",
+        "description": "Crisp romaine lettuce with Caesar dressing, croutons, and parmesan.",
+        "price": 9.99,
+        "category": "Salad"
+      },
+      {
+        "id": 4,
+        "name": "Veggie Wrap",
+        "description": "A healthy wrap filled with fresh vegetables and hummus.",
+        "price": 8.99,
+        "category": "Wraps"
+      },
+      {
+        "id": 5,
+        "name": "Chicken Wings",
+        "description": "Spicy chicken wings served with your choice of sauce.",
+        "price": 10.99,
+        "category": "Appetizers"
+      },
+      {
+        "id": 6,
+        "name": "Chocolate Cake",
+        "description": "Rich and moist chocolate cake with chocolate frosting.",
+        "price": 5.99,
+        "category": "Desserts"
+      },
+      {
+        "id": 7,
+        "name": "Fruit Salad",
+        "description": "A refreshing mix of seasonal fruits.",
+        "price": 6.99,
+        "category": "Desserts"
+      },
+      {
+        "id": 8,
+        "name": "Iced Tea",
+        "description": "Chilled iced tea served with lemon.",
+        "price": 2.99,
+        "category": "Beverages"
+      },
+      {
+        "id": 9,
+        "name": "Smoothie",
+        "description": "A blended drink made with fresh fruits and yogurt.",
+        "price": 4.99,
+        "category": "Beverages"
+      },
+      {
+        "id": 10,
+        "name": "Beef Burger",
+        "description": "Juicy beef burger with lettuce, tomato, and cheese.",
+        "price": 11.99,
+        "category": "Burgers"
+      }
+    ]
+  }
